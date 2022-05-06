@@ -1,5 +1,4 @@
 #Algoritmo senhas para fila
-#Por Saulo de Freitas em 06/05/2022
 
 import random
 
